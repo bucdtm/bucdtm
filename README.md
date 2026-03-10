@@ -11,4 +11,4 @@
   </div>
 </details>
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/bucdtm/bucdtm/output/github-contribution-grid-snake.svg">
