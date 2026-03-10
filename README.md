@@ -11,4 +11,4 @@
   </div>
 </details>
 
-<img src="https://raw.githubusercontent.com/bucdtm/bucdtm/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bucdtm/bucdtm/output/github-contribution-grid-snake-dark.svg">
