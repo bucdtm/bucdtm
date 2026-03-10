@@ -6,11 +6,8 @@
   <summary>Statistics</summary>
   <br/>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=bucdtm&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="400"/>
-    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bucdtm&theme=dracula&hide_border=true" width="400"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bucdtm&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=20" width="400"/>
   </div>
 </details>
 
