@@ -1,11 +1,6 @@
-<img src="[https://images7.alphacoders.com/138/thumb-1920-1380349.png]" width="150"/>
-
-
 [My Portfolio](https://bucdtm.github.io/)
 
-<details>
-  <summary></summary>
-  <br/>
+<br/>
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bucdtm&theme=dracula&hide_border=true" width="400"/>
     <br/>
