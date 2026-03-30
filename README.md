@@ -6,7 +6,7 @@
     <br/>
   </div>
 </details>
-
+<br />
 <img src="https://komarev.com/ghpvc/?username=bucdtm&label=Visitor%20count&style=for-the-badge&color=555555&abbreviated=true" width="150"/>
 
 <pictura>
