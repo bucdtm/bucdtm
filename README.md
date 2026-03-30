@@ -1,4 +1,5 @@
-![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://images7.alphacoders.com/138/thumb-1920-1380349.png))
+<img src="[https://images7.alphacoders.com/138/thumb-1920-1380349.png]" width="150"/>
+
 
 [My Portfolio](https://bucdtm.github.io/)
 
