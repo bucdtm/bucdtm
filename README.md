@@ -1,7 +1,9 @@
+![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://images7.alphacoders.com/138/thumb-1920-1380349.png))
+
 [My Portfolio](https://bucdtm.github.io/)
 
 <details>
-  <summary>Statistics</summary>
+  <summary></summary>
   <br/>
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bucdtm&theme=dracula&hide_border=true" width="400"/>
