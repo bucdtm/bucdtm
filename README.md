@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=bucdtm&label=Visitor%20count&style=for-the-badge&color=555555&abbreviated=true" width="150"/>
 
-[1337](https://bucdtm.github.io/)
+[My Portfolio](https://bucdtm.github.io/)
 
 <details>
   <summary>Statistics</summary>
